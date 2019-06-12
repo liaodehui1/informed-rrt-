@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\bin\Debug\Shortest_Path_Form.exe.config
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\bin\Debug\Shortest_Path_Form.exe
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\bin\Debug\Shortest_Path_Form.pdb
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.Form1.resources
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.Properties.Resources.resources
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.csproj.GenerateResource.cache
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.exe
+C:\Users\ThinkPad\source\repos\Shortest_Path_Form\Shortest_Path_Form\obj\Debug\Shortest_Path_Form.pdb
